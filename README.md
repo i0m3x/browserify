@@ -11,3 +11,5 @@ npm run watch - this is used in place of build
 sources: https://github.com/browserify/browserify#usage
 
 https://github.com/lexiconPDX/class_armadillo/blob/master/5%20JavaScript/solutions/lab04-todo.html
+
+https://github.com/PdxCodeGuild/advjs-curriculum/blob/master/week-3/todolist.md
